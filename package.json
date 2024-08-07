@@ -1,0 +1,27 @@
+{
+  "name": "3D_Project_Management_Tool",
+  "version": "1.0.0",
+  "description": "Interactive 3D project management tool built with Three.js.",
+  "main": "js/app.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nyx4d/3D_Project_Management_Tool.git"
+  },
+  "keywords": [
+    "three.js",
+    "project management",
+    "3d"
+  ],
+  "author": "nyx4d@proton.me",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nyx4d/3D_Project_Management_Tool/issues"
+  },
+  "homepage": "https://github.com/nyx4d/3D_Project_Management_Tool#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

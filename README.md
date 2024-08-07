@@ -38,7 +38,7 @@ An interactive 3D project management tool built with Three.js, allowing you to v
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
 ## License
-* Copyright (c) 2024 nyx4d
+<!--* Copyright (c) 2024 nyx4d
  * Contact: nyx4d@proton.me
  * 
  * 3D_Project_Management_Tool makes use of the Open Source Three.js library, which is licensed under the MIT License.
@@ -58,7 +58,7 @@ Contributions are welcome! Please fork the repository and create a pull request 
 3. Any use of the Software must be approved by the author or a designated representative.
 4. The author reserves the right to revoke the license if these terms and conditions are violated.
 <script>
-        -----       ````````````````````        `````````````     ````````````````````
+        /*-----       ````````````````````        `````````````     ````````````````````
 
                        ----------                  ---------------           ---------
 
@@ -73,7 +73,7 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 
                        `````````
-    `````          ```````````````````````         ```````````````           ``````
+    `````          ```````````````````````         ```````````````           ``````*/
 </script>
 Usage
 Open the index.php file in a web browser.
@@ -88,4 +88,4 @@ Full-Body Movement Tracking: Uses TensorFlow.js for pose estimation to adjust th
 Voice Commands: Integrated voice recognition for hands-free interaction.
 Dynamic Content Rendering: Editors update content dynamically, which is rendered in corresponding iframes.
 Event Logging: Captures and logs user DOM & BOM data for all event interactions for analysis and research.
-Scene Management: Save and preload scenes using PHP and MySQL for improved performance.
+Scene Management: Save and preload scenes using PHP and MySQL for improved performance.-->
